@@ -1,0 +1,2 @@
+# Novi-repoz
+Opis repozitorija
